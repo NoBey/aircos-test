@@ -1,0 +1,23 @@
+{
+  "name": "aircos-test",
+  "version": "1.0.0",
+  "description": "aircos-test",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "^4.5.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoBey/aircos-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoBey/aircos-test/issues"
+  },
+  "homepage": "https://github.com/NoBey/aircos-test#readme"
+}
